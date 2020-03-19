@@ -1,3 +1,3 @@
 # wp-icons
 
-Fork of the WordPress admin icon font.
+Fork of the WordPress Dashicons icon font.
